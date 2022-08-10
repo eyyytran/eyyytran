@@ -1,12 +1,29 @@
-# Thanks for stopping by!
+<h1 align="center">Hi, I'm Andrea</h1>
+<h3 align="center">Full Stack Developer - Atlanta, GA</h3>
 
-## I'm Andrea
+- 🎓 I’m currently a student of DigitalCrafts Full Stack Web Development Bootcamp, graduating in September 2022.
 
-- 👩🏻‍⚕️ I'm nurse who loves to code.
-- 🎓 I’m a student of DigitalCrafts Full Stack Web Development Bootcamp.
-- ☕ I'm currently learning React/Typescript.
+- 🌱 I’m currently learning **React/Redux/Typescript**
+
+- 👨‍💻 Visit my portfolio at [andreatran.net](andreatran.net)
+
+- 📝 I regularly write articles on [https://medium.com/@eyyytran](https://medium.com/@eyyytran)
+
 - 📫 How to contact me: [LinkedIn](https://www.linkedin.com/in/eyyytran/) or ltatran94@gmail.com
-- 💻 Portfolio: [andreatran.net](https://www.andreatran.net/)
+
+- ⚡ Fun fact I think `Andrea.isFunny = true`
+
+---
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ltatran94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ltatran94" height="30" width="40" /></a>
+<a href="https://medium.com/@eyyytran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eyyytran" height="30" width="40" /></a>
+</p>
 
 ---
 ### Technical Skills: ###
