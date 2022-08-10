@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React/Redux/Typescript**
 
-- 👨‍💻 Visit my portfolio at [andreatran.net](andreatran.net)
+- 👨‍💻 Visit my portfolio at [andreatran.net](https://www.andreatran.net/)
 
 - 📝 I regularly write articles on [https://medium.com/@eyyytran](https://medium.com/@eyyytran)
 
