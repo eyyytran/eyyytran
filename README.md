@@ -19,13 +19,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ltatran94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ltatran94" height="30" width="40" /></a>
-<a href="https://medium.com/@eyyytran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eyyytran" height="30" width="40" /></a>
-</p>
-
----
 ### Technical Skills: ###
 
 ![General badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
