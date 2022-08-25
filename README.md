@@ -14,7 +14,7 @@
 - ⚡ Fun fact I think `Andrea.isFunny = true`
 
 ---
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
