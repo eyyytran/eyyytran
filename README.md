@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Andrea</h1>
 <h3 align="center">🥞 Full Stack Developer - Atlanta, GA</h3>
 
-- 🎓 I’m currently a student of DigitalCrafts Full Stack Web Development Bootcamp, graduating in September 2022.
 
-- 🌱 I’m currently learning **React/Redux/Typescript**
+- 🌱 I'm currently learning **Java**
 
 - 👨‍💻 Visit my portfolio at [andreatran.net](https://www.andreatran.net/)
 
