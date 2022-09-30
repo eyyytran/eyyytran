@@ -15,6 +15,7 @@
 ---
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+[The Making of Boom](https://medium.com/@eyyytran/nurse-to-tech-in-16-weeks-our-capstone-project-ecf336dae079)
 <!-- BLOG-POST-LIST:END -->
 
 ---
