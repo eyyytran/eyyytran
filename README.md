@@ -2,7 +2,7 @@
 <h3 align="center">🥞 Full Stack Developer - Atlanta, GA</h3>
 
 
-- 🌱 I'm currently learning **Java**
+- 🌱 I'm currently rebuilding my portfolio website.
 
 - 👨‍💻 Visit my portfolio at [andreatran.net](https://www.andreatran.net/)
 
