@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Andrea</h1>
 <h3 align="center">🥞 Full Stack Developer - Atlanta, GA</h3>
 
-
-- 🌱 I'm currently rebuilding my portfolio website.
-
 - 👨‍💻 Visit my portfolio at [andreatran.net](https://www.andreatran.net/)
 
 - 📝 I regularly write articles on [https://medium.com/@eyyytran](https://medium.com/@eyyytran)
